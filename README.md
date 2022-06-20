@@ -1,7 +1,6 @@
 # littlevictories-ios
-## **For MLH Judges, please email me at tp284@cornell.edu for a copy of the GoogleService-Info file that is needed to run the app on Xcode. Thank you so much!
 
-Backend Repository Link: https://github.com/jeh362/MentalHealthHackathon.git
+## Backend Repository Link: https://github.com/jeh362/MentalHealthHackathon.git
 
 We wanted to create something related to the theme of mental health that was simple, quick, and evoked positivity. That was when we thought of our lives as university students. Having just completed our first year at university, we realized that we tended to get caught up in the whirlwind of trying to balance our academic and social life that we neglected our mental health at times. We figured that this is probably the case for many people in all stages of life, albeit under different circumstances. As our responsibilities and aspirations grow (or as life passes in general), it is important to remind ourselves to celebrate even the little things in life. Celebrating the small things can help one practice positivity and gratitude which can help to reduce feelings of anxiety and depression. And that’s why we decided to build Little Victories–to help people highlight the positive aspects of their life no matter how small they may be. 
 
